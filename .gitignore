@@ -130,3 +130,5 @@ token.pickle
 .idea/
 
 links.csv
+
+.DS_Store
